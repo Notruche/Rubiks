@@ -109,7 +109,7 @@
       <img src="./assets/img/ecran-crédits.gif" class="rubiks" v-if="i==94">
       <div class="pg7" v-on:click="again" v-if="i==94"></div>
       <a
-        href="https://www.instagram.com/cuillere_sur_pattes/"
+        href="https://www.instagram.com/pekolio/"
         class="insta"
         v-if="i==94"
         target="blank"
